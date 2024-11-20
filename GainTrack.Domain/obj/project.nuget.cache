@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgk8BUBCDc0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\dev\\Projetos\\GainTrack\\GainTrack\\GainTrack.Domain\\GainTrack.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
