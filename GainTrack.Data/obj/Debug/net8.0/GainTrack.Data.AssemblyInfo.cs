@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GainTrack.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e82cb746fb951223f416eb4e4475c3f7d73c3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GainTrack.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GainTrack.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
