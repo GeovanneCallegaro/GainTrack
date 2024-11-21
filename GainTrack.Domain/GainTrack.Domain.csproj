@@ -11,7 +11,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Modules\Investment\Interfaces\" />
       <Folder Include="Modules\Investment\Services\" />
       <Folder Include="Modules\User\" />
     </ItemGroup>
